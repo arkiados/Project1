@@ -10,7 +10,6 @@ builder.Services.AddDbContext<InventoryContext>(x => x.UseSqlServer("Server=CS30
 builder.Services.AddRazorPages();
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

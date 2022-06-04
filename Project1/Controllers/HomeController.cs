@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Project1.Models;
+using Project1.Views.Home.Inventory;
 using System.Diagnostics;
 
 namespace Project1.Controllers
